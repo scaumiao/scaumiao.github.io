@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[喵大人的装逼博客]]></title>
-  <link href="http://scaumiao.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Octopress | 喵大人的装逼博客]]></title>
+  <link href="http://scaumiao.github.io/blog/categories/octopress/atom.xml" rel="self"/>
   <link href="http://scaumiao.github.io/"/>
   <updated>2015-09-18T11:25:29+08:00</updated>
   <id>http://scaumiao.github.io/</id>
@@ -21,15 +21,6 @@
     <content type="html"><![CDATA[<h1>这里是标题-_-!!,一级标题为一个‘#’，</h1>
 
 <h2>下面开始是图片的插入</h2>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[First]]></title>
-    <link href="http://scaumiao.github.io/blog/2015/09/18/first/"/>
-    <updated>2015-09-18T08:33:48+08:00</updated>
-    <id>http://scaumiao.github.io/blog/2015/09/18/first</id>
-    <content type="html"><![CDATA[
 ]]></content>
   </entry>
   
