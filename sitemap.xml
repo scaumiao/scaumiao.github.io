@@ -2,12 +2,15 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>http://scaumiao.github.io/blog/2015/09/18/first/</loc>
-    <lastmod>2015-09-18T08:32:48+08:00</lastmod>
+    <lastmod>2015-09-18T08:33:48+08:00</lastmod>
   </url>
   <url>
     <loc>http://scaumiao.github.io/blog/archives/</loc>
   </url>
   <url>
     <loc>http://scaumiao.github.io/</loc>
+  </url>
+  <url>
+    <loc>http://scaumiao.github.io/blog/categories/tttt/</loc>
   </url>
 </urlset>
